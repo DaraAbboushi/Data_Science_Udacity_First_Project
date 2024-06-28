@@ -13,7 +13,7 @@
 4) Does the size of the company have an effect on whether the salary is high or low for employees?
 5) Does the job title have an effect on whether the salary is high or low for employees and how does that relate to the company size?
 
-# File Descriptions
+# Files Description
 
 Uploaded files:
 Udacity_first_project.ipynb: This file is a Jupyter Notebook containing complete functional code with the necessary comments and markdowns for explaining the code. The file is all about exploratory data anaylsis implemented to answer the posed questions above.
